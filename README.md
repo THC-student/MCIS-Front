@@ -79,3 +79,6 @@ jinggai/
 欢迎 contribute 到本项目！请先阅读 贡献指南。
 许可证
 本项目采用 MIT 许可证。
+
+
+项目对应后端地址：https://github.com/THC-student/MCIS-Backend
